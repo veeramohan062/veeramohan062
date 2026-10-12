@@ -1,1 +1,137 @@
-Hi there, I'm Pathapati Veera Mohan 👋 🐍 Aspiring Python Automation Tester | Software Testing Enthusiast I'm a B.Tech Computer Science and Engineering graduate passionate about software quality, test automation, Python programming, and database testing. I'm focused on building reliable automation scripts and developing my skills in software testing and QA engineering. --- 🚀 About Me - 🎓 **Education:** B.Tech in Computer Science and Engineering - 🏫 **College:** Andhra Engineering College - 🧪 **Focus:** Manual Testing and Automation Testing - 🐍 **Programming:** Python, Java, SQL - 🤖 **Automation Tools:** Selenium WebDriver and Playwright - 🗄️ **Database:** MySQL - 🎯 **Career Goal:** Software Tester / QA Engineer / Python Automation Tester - 💡 **Interests:** Test Automation, Problem Solving, Software Quality --- 🛠️ Tech Stack 💻 Programming Languages ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 🧪 Testing & Automation ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Python](https://img.shields.io/badge/Python_Automation-3776AB?style=for-the-badge&logo=python&logoColor=white) 🗄️ Database & Tools ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) 🌐 Web Technologies ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) --- 📂 Featured Projects 1. 🛒 E-Commerce Website Automation Testing **Technologies:** Python, Selenium WebDriver - Developed automated test scripts using Python and Selenium. - Automated login, product search, product selection, cart, and checkout workflows. - Used XPath and CSS selectors to interact with web elements. - Implemented assertions to validate expected results. - Performed functional and regression testing. 2. 🌐 Web Application Testing and Automation **Technologies:** Python, Playwright - Created Python-based Playwright automation scripts. - Automated browser navigation, form submissions, clicks, and validation scenarios. - Implemented waits and assertions for reliable test execution. - Prepared test cases and test scenarios based on requirements. 3. 🗄️ Employee Database Management **Technologies:** MySQL, SQL - Created and managed employee database tables. - Performed INSERT, UPDATE, DELETE, and SELECT operations. - Practiced joins, aggregate functions, GROUP BY, HAVING, and subqueries. - Validated database records using SQL queries. --- ## 📊 GitHub Statistics <div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" /> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true" /> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true" /> </div> --- ## ✍️ Random Dev Quote <div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" /> </div> --- ## 🏆 GitHub Trophies <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=YOUR-GITHUB-USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" /> </div> --- 📜 Certifications & Training - 🧪 Software Testing and Automation Testing Training - 🐍 Python Programming Training - 🗄️ SQL and Database Training - 🤖 Python + Gen AI Automation — Great Learning --- 💪 Strengths - Problem Solving - Quick Learning - Team Collaboration - Attention to Detail - Logical Thinking - Continuous Learning --- ## 📫 Connect With Me 📍 Nellore, Andhra Pradesh, India 📧 **Email:** [veeramohanpathapati@gmail.com](mailto:veeramohanpathapati@gmail.com) 💼 **LinkedIn:** [Connect with me](YOUR-LINKEDIN-URL) 🐙 **GitHub:** [Explore my repositories](https://github.com/YOUR-GITHUB-USERNAME) --- 📊 GitHub Stats ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true) ![GitHub Streak](https://streak-stats.demolab.com?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true) ✍️ Random Dev Quote ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight) --- ⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
+
+# Hi there, I'm Pathapati Veera Mohan 👋
+
+🐍 Aspiring Python Automation Tester | Software Testing Enthusiast
+
+I'm a B.Tech Computer Science and Engineering graduate passionate about software quality, test automation, Python programming, and database testing. I'm focused on building reliable automation scripts and developing my skills in software testing and QA engineering.
+
+---
+
+## 🚀 About Me
+
+- 🎓 **Education:** B.Tech in Computer Science and Engineering
+- 🏫 **College:** Andhra Engineering College
+- 📊 **Percentage:** 82%
+- 🧪 **Focus:** Manual Testing and Automation Testing
+- 🐍 **Programming:** Python, Java, SQL
+- 🤖 **Automation Tools:** Selenium WebDriver and Playwright
+- 🗄️ **Database:** MySQL
+- 🎯 **Career Goal:** Software Tester / QA Engineer / Python Automation Tester
+- 💡 **Interests:** Test Automation, Problem Solving, Software Quality
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🧪 Testing & Automation
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Python](https://img.shields.io/badge/Python_Automation-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🗄️ Database & Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+### 🌐 Web Technologies
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+## 📂 Featured Projects
+
+### 1. 🛒 E-Commerce Website Automation Testing
+**Technologies:** Python, Selenium WebDriver
+
+- Developed automated test scripts using Python and Selenium.
+- Automated login, product search, product selection, cart, and checkout workflows.
+- Used XPath and CSS selectors to interact with web elements.
+- Implemented assertions to validate expected results.
+- Performed functional and regression testing.
+
+### 2. 🌐 Web Application Testing and Automation
+**Technologies:** Python, Playwright
+
+- Created Python-based Playwright automation scripts.
+- Automated browser navigation, form submissions, clicks, and validation scenarios.
+- Implemented waits and assertions for reliable test execution.
+- Prepared test cases and test scenarios based on requirements.
+
+### 3. 🗄️ Employee Database Management
+**Technologies:** MySQL, SQL
+
+- Created and managed employee database tables.
+- Performed INSERT, UPDATE, DELETE, and SELECT operations.
+- Practiced joins, aggregate functions, GROUP BY, HAVING, and subqueries.
+- Validated database records using SQL queries.
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 📜 Certifications & Training
+
+- 🧪 Software Testing and Automation Testing Training
+- 🐍 Python Programming Training
+- 🗄️ SQL and Database Training
+- 🤖 Python + Gen AI Automation — Great Learning
+
+---
+
+## 💪 Strengths
+
+- Problem Solving
+- Quick Learning
+- Team Collaboration
+- Attention to Detail
+- Logical Thinking
+- Continuous Learning
+
+---
+
+## 📫 Connect With Me
+
+📍 Nellore, Andhra Pradesh, India
+
+📧 **Email:** [veeramohanpathapati@gmail.com](mailto:veeramohanpathapati@gmail.com)
+
+💼 **LinkedIn:** [Connect with me](YOUR-LINKEDIN-URL)
+
+🐙 **GitHub:** [Explore my repositories](https://github.com/YOUR-GITHUB-USERNAME)
+
+---
+
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+### ✍️ Random Dev Quote
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+
+
+---
+
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
