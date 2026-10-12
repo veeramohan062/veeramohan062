@@ -1,147 +1,139 @@
+# 👋 Hi, I'm Pathapati Veera Mohan
 
- Hi there, I'm Pathapati Veera Mohan 👋
+### 💻 Software Testing | Automation Testing | Python | SQL
 
-🐍 Aspiring Python Automation Tester | Software Testing Enthusiast
-
-I'm a B.Tech Computer Science and Engineering graduate passionate about software quality, test automation, Python programming, and database testing. I'm focused on building reliable automation scripts and developing my skills in software testing and QA engineering.
-
----
-
- 🚀 About Me
-
-- 🎓 **Education:** B.Tech in Computer Science and Engineering
-- 🏫 **College:** Andhra Engineering College
-- 🧪 **Focus:** Manual Testing and Automation Testing
-- 🐍 **Programming:** Python, Java, SQL
-- 🤖 **Automation Tools:** Selenium WebDriver and Playwright
-- 🗄️ **Database:** MySQL
-- 🎯 **Career Goal:** Software Tester / QA Engineer / Python Automation Tester
-- 💡 **Interests:** Test Automation, Problem Solving, Software Quality
+🎓 Computer Science Graduate from Andhra Engineering College  
+📍 Nellore, Andhra Pradesh, India
 
 ---
 
- 🛠️ Tech Stack
+## 🚀 About Me
 
- 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
- 🧪 Testing & Automation
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Python](https://img.shields.io/badge/Python_Automation-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
- 🗄️ Database & Tools
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
- 🌐 Web Technologies
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- 💻 Interested in Software Testing and Test Automation.
+- 🧪 Knowledge of Manual Testing, Selenium WebDriver, and Playwright.
+- 🐍 Familiar with Python, Java, SQL, and JavaScript.
+- 🗄️ Interested in database testing and SQL queries.
+- 🔍 Understanding of SDLC, STLC, test case design, and defect reporting.
+- 📚 Continuously learning new technologies and automation tools.
 
 ---
 
- 📂 Featured Projects
+## 🛠️ Technical Skills
 
-1. 🛒 E-Commerce Website Automation Testing
-**Technologies:** Python, Selenium WebDriver
+**Programming Languages**
+- Python
+- Java
+- JavaScript
+- SQL
+- C
 
-- Developed automated test scripts using Python and Selenium.
-- Automated login, product search, product selection, cart, and checkout workflows.
-- Used XPath and CSS selectors to interact with web elements.
-- Implemented assertions to validate expected results.
-- Performed functional and regression testing.
+**Testing Tools**
+- Selenium WebDriver
+- Playwright
+- Manual Testing
+- Automation Testing
 
-2. 🌐 Web Application Testing and Automation
-**Technologies:** Python, Playwright
+**Web Technologies**
+- HTML
+- CSS
 
-- Created Python-based Playwright automation scripts.
-- Automated browser navigation, form submissions, clicks, and validation scenarios.
-- Implemented waits and assertions for reliable test execution.
-- Prepared test cases and test scenarios based on requirements.
+**Database**
+- MySQL
+- MySQL Workbench
 
-3. 🗄️ Employee Database Management
-**Technologies:** MySQL, SQL
+**Tools**
+- Git
+- GitHub
+- Visual Studio Code
 
-- Created and managed employee database tables.
-- Performed INSERT, UPDATE, DELETE, and SELECT operations.
-- Practiced joins, aggregate functions, GROUP BY, HAVING, and subqueries.
-- Validated database records using SQL queries.
+**Testing Concepts**
+- SDLC and STLC
+- Test Case Design
+- Functional Testing
+- Smoke Testing
+- Sanity Testing
+- Regression Testing
+- Integration Testing
+- System Testing
+- Defect Reporting
+- Database Testing
 
 ---
 
+## 📂 Projects
+
+### 🛒 E-Commerce Website Automation Testing
+- Automated web application test scenarios using Python and Selenium WebDriver.
+- Practiced browser automation and test execution.
+
+### 🌐 Web Application Testing and Automation
+- Worked on web application automation using Python and Playwright.
+- Practiced validating application functionality and user workflows.
+
+### 🗄️ Employee Database Management
+- Created and practiced SQL queries for employee and department data.
+- Worked with database operations and employee records using MySQL.
+
+---
+
+## 💻 Languages Used on GitHub
+
+<!-- GitHub language statistics -->
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=donut&langs_count=20&theme=tokyonight&hide_border=true" alt="GitHub Languages Donut Chart" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&langs_count=20&theme=tokyonight&hide_border=true" alt="GitHub Languages Compact List" />
+
+</div>
+
+---
 
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-## ✍️ Random Dev Quote
+## 🏆 GitHub Profile Trophies
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR-GITHUB-USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Profile Trophies" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 💬 Random Developer Quote
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR-GITHUB-USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Developer Quote" />
 
 </div>
-
----
-
-📜 Certifications & Training
-
-- 🧪 Software Testing and Automation Testing Training
-- 🐍 Python Programming Training
-- 🗄️ SQL and Database Training
-- 🤖 Python + Gen AI Automation — Great Learning
-
----
-
-💪 Strengths
-
-- Problem Solving
-- Quick Learning
-- Team Collaboration
-- Attention to Detail
-- Logical Thinking
-- Continuous Learning
 
 ---
 
 ## 📫 Connect With Me
 
-📍 Nellore, Andhra Pradesh, India
-
-📧 **Email:** [veeramohanpathapati@gmail.com](mailto:veeramohanpathapati@gmail.com)
-
-💼 **LinkedIn:** [Connect with me](YOUR-LINKEDIN-URL)
-
-🐙 **GitHub:** [Explore my repositories](https://github.com/YOUR-GITHUB-USERNAME)
-
-
-
+- 📧 Email: veeramohanpathapati@gmail.com
+- 💻 GitHub: https://github.com/YOUR-GITHUB-USERNAME
 
 ---
 
-⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*Keep Learning • Keep Building • Keep Growing*
+
+</div>
